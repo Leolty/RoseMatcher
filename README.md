@@ -18,21 +18,21 @@ This repository provides the public access to the raw data of *RoseMatcher*.
 </thead>
 <tbody>
   <tr>
-    <td bgcolor="fafabe">Reddit</td>
-    <td bgcolor="fafabe">News</td>
+    <td bgcolor="fafabe"><mark>Reddit</td>
+    <td bgcolor="fafabe">>News</td>
     <td bgcolor="fafabe">2016/04/07</td>
     <td bgcolor="fafabe">2016/04/20</td>
     <td bgcolor="fafabe">2</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">Spotify</td>
+    <td bgcolor="fafabe"><mark>Spotify</td>
     <td bgcolor="fafabe">Music</td>
     <td bgcolor="fafabe">2011/07/04</td>
     <td bgcolor="fafabe">2015/05/20</td>
     <td bgcolor="fafabe">1</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">Pandora</td>
+    <td bgcolor="fafabe"><mark>Pandora</td>
     <td bgcolor="fafabe">Music</td>
     <td bgcolor="fafabe">2013/09/18</td>
     <td bgcolor="fafabe">2014/06/12</td>
@@ -53,7 +53,7 @@ This repository provides the public access to the raw data of *RoseMatcher*.
     <td>2</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">SHEIN</td>
+    <td bgcolor="fafabe"><mark>SHEIN</td>
     <td bgcolor="fafabe">Shopping</td>
     <td bgcolor="fafabe">2014/5/20</td>
     <td bgcolor="fafabe">2014/7/21</td>
@@ -81,7 +81,7 @@ This repository provides the public access to the raw data of *RoseMatcher*.
     <td>2</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">Instagram</td>
+    <td bgcolor="fafabe"><mark>Instagram</td>
     <td bgcolor="fafabe">Photo &amp; Video</td>
     <td bgcolor="fafabe">2010/10/06</td>
     <td bgcolor="fafabe">2015/09/15</td>
@@ -106,7 +106,7 @@ This repository provides the public access to the raw data of *RoseMatcher*.
 
 \* All the data information is sourced from Apple App Store.
 
-\* Rows with yellow background are evaluation data we use in our paper. (same below)
+\* Apps that *App Name* are marked are evaluation data we use in our paper (same below).
 
 ## Collection Method
 
@@ -127,21 +127,21 @@ This repository provides the public access to the raw data of *RoseMatcher*.
 </thead>
 <tbody>
   <tr>
-    <td bgcolor="fafabe">Reddit</td>
+    <td bgcolor="fafabe"><mark>Reddit</td>
     <td bgcolor="fafabe">233</td>
     <td bgcolor="fafabe">450</td>
     <td bgcolor="fafabe">62,598</td>
     <td bgcolor="fafabe">129,545</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">Spotify</td>
+    <td bgcolor="fafabe"><mark>Spotify</td>
     <td bgcolor="fafabe">182</td>
     <td bgcolor="fafabe">506</td>
     <td bgcolor="fafabe">368,243</td>
     <td bgcolor="fafabe">808,441</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">Pandora</td>
+    <td bgcolor="fafabe"><mark>Pandora</td>
     <td bgcolor="fafabe">115</td>
     <td bgcolor="fafabe">235</td>
     <td bgcolor="fafabe">107,241</td>
@@ -162,7 +162,7 @@ This repository provides the public access to the raw data of *RoseMatcher*.
     <td>21,567</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">SHEIN</td>
+    <td bgcolor="fafabe"><mark>SHEIN</td>
     <td bgcolor="fafabe">161</td>
     <td bgcolor="fafabe">361</td>
     <td bgcolor="fafabe">45,516</td>
@@ -190,7 +190,7 @@ This repository provides the public access to the raw data of *RoseMatcher*.
     <td>1,458</td>
   </tr>
   <tr>
-    <td bgcolor="fafabe">Instagram</td>
+    <td bgcolor="fafabe"><mark>Instagram</td>
     <td bgcolor="fafabe">253</td>
     <td bgcolor="fafabe">380</td>
     <td bgcolor="fafabe">461,264</td>
