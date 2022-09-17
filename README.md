@@ -6,110 +6,100 @@ This repository provides the public access to the raw data of *RoseMatcher*.
 
 ## Data Source
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-ncd7{background-color:#ffffc7;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-tqgz{background-color:#ffffc7;border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-0pky">App</th>
-    <th class="tg-0pky">Category</th>
-    <th class="tg-0pky">App Release Time</th>
-    <th class="tg-0pky">First Update Time</th>
-    <th class="tg-0pky">Ranking Within Category</th>
+    <th>App</th>
+    <th>Category</th>
+    <th>App Release Time</th>
+    <th>First Update Time</th>
+    <th>Ranking Within Category</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ncd7">Reddit</td>
-    <td class="tg-ncd7">News</td>
-    <td class="tg-ncd7">2016/04/07</td>
-    <td class="tg-ncd7">2016/04/20</td>
-    <td class="tg-ncd7">2</td>
+    <td bgcolor="fafabe">Reddit</td>
+    <td bgcolor="fafabe">News</td>
+    <td bgcolor="fafabe">2016/04/07</td>
+    <td bgcolor="fafabe">2016/04/20</td>
+    <td bgcolor="fafabe">2</td>
   </tr>
   <tr>
-    <td class="tg-ncd7">Spotify</td>
-    <td class="tg-ncd7">Music</td>
-    <td class="tg-ncd7">2011/07/04</td>
-    <td class="tg-ncd7">2015/05/20</td>
-    <td class="tg-ncd7">1</td>
+    <td bgcolor="fafabe">Spotify</td>
+    <td bgcolor="fafabe">Music</td>
+    <td bgcolor="fafabe">2011/07/04</td>
+    <td bgcolor="fafabe">2015/05/20</td>
+    <td bgcolor="fafabe">1</td>
   </tr>
   <tr>
-    <td class="tg-ncd7">Pandora</td>
-    <td class="tg-ncd7">Music</td>
-    <td class="tg-ncd7">2013/09/18</td>
-    <td class="tg-ncd7">2014/06/12</td>
-    <td class="tg-ncd7">2</td>
+    <td bgcolor="fafabe">Pandora</td>
+    <td bgcolor="fafabe">Music</td>
+    <td bgcolor="fafabe">2013/09/18</td>
+    <td bgcolor="fafabe">2014/06/12</td>
+    <td bgcolor="fafabe">2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ZOOM</td>
-    <td class="tg-0pky">Bussiness</td>
-    <td class="tg-0pky">2012/08/15</td>
-    <td class="tg-0pky">2013/12/18</td>
-    <td class="tg-0pky">1</td>
+    <td>ZOOM</td>
+    <td>Bussiness</td>
+    <td>2012/08/15</td>
+    <td>2013/12/18</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Microsoft Teams</td>
-    <td class="tg-0pky">Bussiness</td>
-    <td class="tg-0pky">2016/11/02</td>
-    <td class="tg-0pky">2016/11/08</td>
-    <td class="tg-0pky">2</td>
+    <td>Microsoft Teams</td>
+    <td>Bussiness</td>
+    <td>2016/11/02</td>
+    <td>2016/11/08</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td class="tg-tqgz">SHEIN</td>
-    <td class="tg-tqgz">Shopping</td>
-    <td class="tg-tqgz">2014/5/20</td>
-    <td class="tg-tqgz">2014/7/21</td>
-    <td class="tg-tqgz">2</td>
+    <td bgcolor="fafabe">SHEIN</td>
+    <td bgcolor="fafabe">Shopping</td>
+    <td bgcolor="fafabe">2014/5/20</td>
+    <td bgcolor="fafabe">2014/7/21</td>
+    <td bgcolor="fafabe">2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Google Chrome</td>
-    <td class="tg-0pky">Utilities</td>
-    <td class="tg-0pky">2012/06/28</td>
-    <td class="tg-0pky">2014/10/27</td>
-    <td class="tg-0pky">2</td>
+    <td>Google Chrome</td>
+    <td>Utilities</td>
+    <td>2012/06/28</td>
+    <td>2014/10/27</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">TestFlight</td>
-    <td class="tg-0pky">Developer Tools</td>
-    <td class="tg-0pky">2014/7/23</td>
-    <td class="tg-0pky">2014/07/26</td>
-    <td class="tg-0pky">1</td>
+    <td>TestFlight</td>
+    <td>Developer Tools</td>
+    <td>2014/7/23</td>
+    <td>2014/07/26</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Github</td>
-    <td class="tg-0pky">Developer Tools</td>
-    <td class="tg-0pky">2020/3/17</td>
-    <td class="tg-0pky">2020/03/20</td>
-    <td class="tg-0pky">2</td>
+    <td>Github</td>
+    <td>Developer Tools</td>
+    <td>2020/3/17</td>
+    <td>2020/03/20</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td class="tg-ncd7">Instagram</td>
-    <td class="tg-ncd7">Photo &amp; Video</td>
-    <td class="tg-ncd7">2010/10/06</td>
-    <td class="tg-ncd7">2015/09/15</td>
-    <td class="tg-ncd7">2</td>
+    <td bgcolor="fafabe">Instagram</td>
+    <td bgcolor="fafabe">Photo &amp; Video</td>
+    <td bgcolor="fafabe">2010/10/06</td>
+    <td bgcolor="fafabe">2015/09/15</td>
+    <td bgcolor="fafabe">2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Gmail</td>
-    <td class="tg-0pky">Productivity</td>
-    <td class="tg-0pky">2011/11/02</td>
-    <td class="tg-0pky">2012/07/31</td>
-    <td class="tg-0pky">1</td>
+    <td>Gmail</td>
+    <td>Productivity</td>
+    <td>2011/11/02</td>
+    <td>2012/07/31</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Google Drive</td>
-    <td class="tg-0pky">Productivity</td>
-    <td class="tg-0pky">2012/6/28</td>
-    <td class="tg-0pky">2014/01/28</td>
-    <td class="tg-0pky">2</td>
+    <td>Google Drive</td>
+    <td>Productivity</td>
+    <td>2012/6/28</td>
+    <td>2014/01/28</td>
+    <td>2</td>
   </tr>
 </tbody>
 </table>
@@ -125,119 +115,107 @@ This repository provides the public access to the raw data of *RoseMatcher*.
 
 ## Dataset Composation
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5hcb{background-color:#F9EDA6;border-color:inherit;color:#494949;text-align:left;vertical-align:top}
-.tg .tg-z38j{background-color:#F9EDA6;border-color:#000000;color:#494949;text-align:left;vertical-align:top}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-mg27{border-color:inherit;color:#494949;text-align:left;vertical-align:top}
-.tg .tg-jqjf{color:#494949;font-style:italic;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-mg27">App Name</th>
-    <th class="tg-mg27">Release Num</th>
-    <th class="tg-mg27">Sentence Num</th>
-    <th class="tg-mg27">Review Num</th>
-    <th class="tg-mg27">Sentence Num</th>
+    <th>App Name</th>
+    <th>Release Num</th>
+    <th>Sentence Num</th>
+    <th>Review Num</th>
+    <th>Sentence Num</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">Reddit</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">233</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">450</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">62,598</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">129,545</span></td>
+    <td bgcolor="fafabe">Reddit</td>
+    <td bgcolor="fafabe">233</td>
+    <td bgcolor="fafabe">450</td>
+    <td bgcolor="fafabe">62,598</td>
+    <td bgcolor="fafabe">129,545</td>
   </tr>
   <tr>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">Spotify</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">182</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">506</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">368,243</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">808,441</span></td>
+    <td bgcolor="fafabe">Spotify</td>
+    <td bgcolor="fafabe">182</td>
+    <td bgcolor="fafabe">506</td>
+    <td bgcolor="fafabe">368,243</td>
+    <td bgcolor="fafabe">808,441</td>
   </tr>
   <tr>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">Pandora</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">115</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">235</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">107,241</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">241,497</span></td>
+    <td bgcolor="fafabe">Pandora</td>
+    <td bgcolor="fafabe">115</td>
+    <td bgcolor="fafabe">235</td>
+    <td bgcolor="fafabe">107,241</td>
+    <td bgcolor="fafabe">241,497</td>
   </tr>
   <tr>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">ZOOM</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">104</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">878</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">47,799</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">95,528</span></td>
+    <td>ZOOM</td>
+    <td>104</td>
+    <td>878</td>
+    <td>47,799</td>
+    <td>95,528</td>
   </tr>
   <tr>
-    <td class="tg-mg27">Microsoft Teams</td>
-    <td class="tg-mg27">154</td>
-    <td class="tg-mg27">379</td>
-    <td class="tg-mg27">9,233</td>
-    <td class="tg-mg27">21,567</td>
+    <td>Microsoft Teams</td>
+    <td>154</td>
+    <td>379</td>
+    <td>9,233</td>
+    <td>21,567</td>
   </tr>
   <tr>
-    <td class="tg-z38j"><span style="background-color:#F9EDA6">SHEIN</span></td>
-    <td class="tg-z38j"><span style="background-color:#F9EDA6">161</span></td>
-    <td class="tg-z38j"><span style="background-color:#F9EDA6">361</span></td>
-    <td class="tg-z38j"><span style="background-color:#F9EDA6">45,516</span></td>
-    <td class="tg-z38j"><span style="background-color:#F9EDA6">117,529</span></td>
+    <td bgcolor="fafabe">SHEIN</td>
+    <td bgcolor="fafabe">161</td>
+    <td bgcolor="fafabe">361</td>
+    <td bgcolor="fafabe">45,516</td>
+    <td bgcolor="fafabe">117,529</td>
   </tr>
   <tr>
-    <td class="tg-mg27">Google Chrome</td>
-    <td class="tg-mg27">77</td>
-    <td class="tg-mg27">359</td>
-    <td class="tg-mg27">12,677</td>
-    <td class="tg-mg27">32,735</td>
+    <td>Google Chrome</td>
+    <td>77</td>
+    <td>359</td>
+    <td>12,677</td>
+    <td>32,735</td>
   </tr>
   <tr>
-    <td class="tg-mg27">TestFlight</td>
-    <td class="tg-mg27">22</td>
-    <td class="tg-mg27">37</td>
-    <td class="tg-mg27">5,566</td>
-    <td class="tg-mg27">8,683</td>
+    <td>TestFlight</td>
+    <td>22</td>
+    <td>37</td>
+    <td>5,566</td>
+    <td>8,683</td>
   </tr>
   <tr>
-    <td class="tg-mg27">Github</td>
-    <td class="tg-mg27">68</td>
-    <td class="tg-mg27">373</td>
-    <td class="tg-mg27">668</td>
-    <td class="tg-mg27">1,458</td>
+    <td>Github</td>
+    <td>68</td>
+    <td>373</td>
+    <td>668</td>
+    <td>1,458</td>
   </tr>
   <tr>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">Instagram</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">253</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">380</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">461,264</span></td>
-    <td class="tg-5hcb"><span style="background-color:#F9EDA6">918,729</span></td>
+    <td bgcolor="fafabe">Instagram</td>
+    <td bgcolor="fafabe">253</td>
+    <td bgcolor="fafabe">380</td>
+    <td bgcolor="fafabe">461,264</td>
+    <td bgcolor="fafabe">918,729</td>
   </tr>
   <tr>
-    <td class="tg-mg27">Gmail</td>
-    <td class="tg-mg27">119</td>
-    <td class="tg-mg27">175</td>
-    <td class="tg-mg27">33,985</td>
-    <td class="tg-mg27">93,748</td>
+    <td>Gmail</td>
+    <td>119</td>
+    <td>175</td>
+    <td>33,985</td>
+    <td>93,748</td>
   </tr>
   <tr>
-    <td class="tg-mg27">Google Drive</td>
-    <td class="tg-mg27">127</td>
-    <td class="tg-mg27">167</td>
-    <td class="tg-mg27">26,139</td>
-    <td class="tg-mg27">56,823</td>
+    <td>Google Drive</td>
+    <td>127</td>
+    <td>167</td>
+    <td>26,139</td>
+    <td>56,823</td>
   </tr>
   <tr>
-    <td class="tg-jqjf">Total</td>
-    <td class="tg-frbo">1,615</td>
-    <td class="tg-frbo">4,300</td>
-    <td class="tg-frbo">1,180,929</td>
-    <td class="tg-frbo">2,526,283</td>
+    <td><i>Total</i></td>
+    <td><i>1,615</td>
+    <td><i>4,300</td>
+    <td><i>1,180,929</td>
+    <td><i>2,526,283</td>
   </tr>
 </tbody>
 </table>
