@@ -106,7 +106,7 @@ This repository provides the public access to the raw data of *RoseMatcher*.
 
 \* All the data information is sourced from Apple App Store.
 
-\* Apps that *App Name* are marked are evaluation data we use in our paper (same below).
+\* Apps that *App Name* starts with **#** are evaluation data we use in our paper (same below).
 
 ## Collection Method
 
