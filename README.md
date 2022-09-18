@@ -1,6 +1,6 @@
 # RoseMatcher
 
-**RoseMatcher** is an approach an approach to automatically match colloquially-written user reviews with technically-written release notes, and identify the relevant matching pairs, which can not only address the language gap between the two natural languages, but also greatly improve the hit ratio of the matching pairs.
+**RoseMatcher** is an approach to automatically match colloquially-written user reviews with technically-written release notes, and identify the relevant matching pairs, which can not only address the language gap between the two natural languages, but also greatly improve the hit ratio of the matching pairs.
 
 This repository provides the public access to the raw data of *RoseMatcher*.
 
@@ -251,7 +251,7 @@ data.replace('年', '-').replace('月', '-').replace('日', '-')
 
 ## How to read data
 
-Python provides great APIs for Excel reading, and we provide the following one example for data reading
+Python provides great APIs for Excel reading, and we provide the following one example for data reading.
 
 ```python
 import pandas as pd
