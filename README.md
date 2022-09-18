@@ -220,9 +220,13 @@ This repository provides the public access to the raw data of *RoseMatcher*.
 </tbody>
 </table>
 
-## Data Attributes
+## Data Storage and Attributes
 
-Each app's dataset is in its own directory. App release notes are stored in *(App_Name)_Release_Origin.xlsx*, and app user reviews are stored in *(App_Name)_Reviews_Origin.xlsx*.
+### Data Storage
+All the data are stored in Excel files, in which:
+
+* App release notes are stored in *dataset/\*app_name\*/\*app_name\*_Release_Origin.xlsx*.
+* App user reviews are stored in *dataset/\*app_name\*/\*app_name\*_Reviews_Origin.xlsx*.
 
 ### Release Note Dataset Attribute
 
