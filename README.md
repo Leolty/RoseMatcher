@@ -219,3 +219,50 @@ This repository provides the public access to the raw data of *RoseMatcher*.
   </tr>
 </tbody>
 </table>
+
+## Data Attributes
+
+Each app's dataset is in its own directory. App release notes are stored in *(App_Name)_Release_Origin.xlsx*, and app user reviews are stored in *(App_Name)_Reviews_Origin.xlsx*.
+
+### Release Note Dataset Attribute
+
+* **version**: update version number
+* **date**: update date\*
+* **release**: release note content
+  
+\* If you are not a Chinese speaker, we want you to know that "年" means "year", "月" means month, and "日" means day. If you need to process the data , you can use the following python code to replace these Chinese characters with symbols.
+
+```python
+date = "2019年5月26日"
+
+data.replace('年', '-').replace('月', '-').replace('日', '-')
+
+# expected output: data = "2019-5-26"
+```
+
+### User Review Dataset Attribute
+
+* **date**: posting date, including the exact time (year-month-day  hour:minute:second)
+* **rating**: ratings given by users (from 1 to 5)
+* **title**: user review title
+* **content**: user review content\*
+  
+\* If you are not a Chinese speaker, we want you to know that "该条评论已经被删除" means "this review has been deleted".
+
+## How to read data
+
+Python provides great APIs for Excel reading, and we provide the following one example for data reading
+
+```python
+import pandas as pd
+
+df = pd.read_excel("../Spotify/Spotify_Reviews_Origin.xlsx")
+df.dropna()
+df.reset_index()
+
+# If you want the user reviews that combine title and content
+reviews = df['title'] +" "+ df['content']
+
+# If you only want the user review content rated 1 by users
+content_rating1 = df.loc[df['rating']==1]['content']
+```
